@@ -1,4 +1,4 @@
-# Analysis-of-NewYork-City-Airbnb-for-year-2019-
+# Analysis-of-NewYork-City-Airbnb-for-year-2019
 
 For this project, we are acting as business consultants who help the new hosts become successful. In broader sense, our business question is:
 
